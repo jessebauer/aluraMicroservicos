@@ -1,4 +1,4 @@
-## Microsserviços na prática: entendendo a tomada de decisões
+## Microsserviços: entendendo a tomada de decisões
 
 • Execute um projeto real usando microsserviços
 
